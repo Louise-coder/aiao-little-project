@@ -1,0 +1,14 @@
+name: aiao-env
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pandas
+  - requests
+  - seaborn
+  - tensorflow
+  - scikit-learn
