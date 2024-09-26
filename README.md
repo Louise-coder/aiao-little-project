@@ -21,6 +21,7 @@ The goal of this project was to resolve two classification problems using neural
     ```bash
     conda env create -f environment.yml
     ```
+3. Download the MNIST train and test samples into a `data/` directory.
 
 # Usage
 1. Activate the conda environment using the command:
